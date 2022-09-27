@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi there! I'm Roberta Palmieri 👋
+I'm a self-taught software engineer who's passionate about art, innovation and accessibility!
+Currently, I'm learning web development!
 
 <!--
 **robertapalmieri/robertapalmieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
